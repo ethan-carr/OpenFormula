@@ -1,6 +1,6 @@
 test_latex_equations = [
     "x + y = z",
-    "\\frac{a}{b} = \\frac{c}{d}",
+    "\\frac\{a}{b} = \\frac{c}{d}",
     "\\sqrt{x^2 + y^2} = r",
     "\\sin(\\alpha + \\beta) = \\sin(\\alpha)\\cos(\\beta) + \\cos(\\alpha)\\sin(\\beta)",
     "a^2 + b^2 = c^2",
